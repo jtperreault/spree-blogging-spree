@@ -1,8 +1,6 @@
 SpreeBloggingSpree
 ==================
 
-[![Build Status](https://travis-ci.org/stefansenk/spree-blogging-spree.png?branch=master)](https://travis-ci.org/stefansenk/spree-blogging-spree)
-
 A basic blogging solution for use with the [Spree](http://github.com/spree/spree/) E-Commerce platform.
 
 The blog is found under /blog on the website font end. Blog entries have fields for title, body, summary, date published, and author. Each blog entry can also have categories and tags associated with it. 
